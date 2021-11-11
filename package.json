@@ -1,0 +1,27 @@
+{
+  "name": "js-webpack-boilerplate-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstianD/js-webpack-boilerplate-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstianD/js-webpack-boilerplate-v2/issues"
+  },
+  "homepage": "https://github.com/EstianD/js-webpack-boilerplate-v2#readme",
+  "devDependencies": {
+    "webpack": "^5.63.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}
